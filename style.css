@@ -1,0 +1,22 @@
+button
+´{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: xx-large;
+}
+.search{
+color: aqua;
+border-color: aqua;
+border-radius: 50px;
+width: 250px;   
+}
+.mas{
+    color: aliceblue;
+    background-color: aqua;
+    border-radius: 50%;
+    border-style: none;
+}
+.create{
+    color: aliceblue;
+    background-color: blue;
+    box-shadow: 2px 2px 2px 1px rgba(6, 6, 12, 0.767);
+}
